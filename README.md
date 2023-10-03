@@ -10,7 +10,7 @@
 ---
 
 ### 💻 &nbsp; About Me :
-I am a graduate of the Maria-Curie-Skłodowska University in Lublin in Computer Science. Currently, I am continuing my studies in the first year of master's degree studies. I am interested in creation and development of software. I am a person open to new experiences. I am always happy to test myself in new areas and take on new challenges. I am currently looking for the possibility of using the acquired knowledge in practice.
+
 
 ---
 
